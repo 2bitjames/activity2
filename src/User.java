@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class User { // example update -> dawdawdwadawdawdwad
+public class User { // example update -> 2
     private String username;
     private String password;
     private ArrayList<ToDoItem> toDoItems;
